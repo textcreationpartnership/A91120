@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A protestation against a foolish, ridiculous and scandalous speech, pretended to be spoken by Thomas Wentworth, late Earle of Strafford, to certaine lords before his comming out of the Tower as also against the simple and absurd letter to his lady in Ireland, together with the onely true copy of his speech, and the charge delivered to his son.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91120</idno>
+            <idno type="STC">Wing P3856</idno>
+            <idno type="STC">Thomason E208_17</idno>
+            <idno type="STC">ESTC R961</idno>
+            <idno type="EEBO-CITATION">99873586</idno>
+            <idno type="PROQUEST">99873586</idno>
+            <idno type="VID">157730</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91120)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157730)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 37:E208[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A protestation against a foolish, ridiculous and scandalous speech, pretended to be spoken by Thomas Wentworth, late Earle of Strafford, to certaine lords before his comming out of the Tower as also against the simple and absurd letter to his lady in Ireland, together with the onely true copy of his speech, and the charge delivered to his son.</title>
+                  <author>Strafford, Thomas Wentworth, Earl of, 1593-1641.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed, anno, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641 --  Early works to 1800.</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157730:1" rendition="simple:additions"/>
+            <p>A PROTESTATION Againſt a fooliſh, ridiculous and ſcandalous SPEECH, pretended to be ſpoken by THOMAS WENTWORTH, Late Earle of <hi>Strafford,</hi> to certaine Lords before his comming out of the Tower: As alſo againſt the ſimple and abſurd <hi>Letter</hi> to his Lady in <hi>Ireland,</hi> together with the onely true Copy of his Speech, and the charge de<g ref="char:EOLhyphen"/>livered to his Son.</p>
+            <p>Printed, <hi>Anno</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157730:2"/>
+            <pb n="1" facs="tcp:157730:2"/>
+            <head>The Speech ſuggeſted to bee the late Earl of <hi>Straffords,</hi> pretended to be ſpoken in the Tower, being falſly and ſcandalouſly imputed to him, is proteſted againſt, and the Teſtimony of the Honourable Perſons then preſent appealed unto therein.</head>
+            <list>
+               <item>Lord Primate of <hi>Ire<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>Earle of <hi>Cleeveland.</hi>
+               </item>
+               <item>Earle of <hi>Newport.</hi>
+               </item>
+               <item>Lord <hi>Rich.</hi>
+               </item>
+               <item>Sir <hi>William Balfoure.</hi>
+               </item>
+               <item>Sir <hi>Willam Wentworth.</hi>
+               </item>
+               <item>Sir <hi>George Wentworth.</hi>
+               </item>
+               <item>Doctor <hi>Carre.</hi>
+               </item>
+               <item>Doctor <hi>Price.</hi>
+               </item>
+            </list>
+            <p>The paper containing the heads of the Earl of <hi>Straffords</hi> laſt Speech, written with his own hand, as it was left upon the Scaffold.
+<list>
+                  <item>1 <hi>Come to pay the laſt debt ve owe to ſin.</hi>
+                  </item>
+                  <item>2 <hi>Riſe to Righteouſneſſe.</hi>
+                  </item>
+                  <item>3 <hi>Die willingly.</hi>
+                  </item>
+                  <item>4 <hi>Forgive all.</hi>
+                  </item>
+                  <item>5 <hi>Submit to Juſtice, but in my intentions from ſubverting, &amp;c.</hi>
+                  </item>
+                  <pb n="2" facs="tcp:157730:3"/>
+                  <item>6 <hi>Wiſhing nothing but proſperity to</hi> King <hi>and</hi> People.</item>
+                  <item>7 <hi>Acquit the King conſtrained.</hi>
+                  </item>
+                  <item>8 <hi>Beſeech to</hi> Repent.</item>
+                  <item>9 <hi>Strange-way to write the beginning of refor<g ref="char:EOLhyphen"/>mation and ſetlement of a Kingdome in bloud.</hi>
+                  </item>
+                  <item>10 <hi>Beſeech that demand may reſt there.</hi>
+                  </item>
+                  <item>12 <hi>Call not bloud upon themſelves.</hi>
+                  </item>
+                  <item>13 <hi>Die in the</hi> Faith <hi>of the</hi> Church.</item>
+                  <item>14 <hi>Pray for it, and deſire the</hi> Prayers <hi>with me.</hi>
+                  </item>
+               </list>
+            </p>
+            <div type="part">
+               <head>The true Speech as it was delivered. <hi>My Lord Primate of</hi> Ireland.</head>
+               <p>IT is my very great comfort that <hi>I</hi> have your Lord<g ref="char:EOLhyphen"/>ſhip by me this day, and <hi>I</hi> doe thanke God and your Lordſhip for it, in regard <hi>I</hi> have bin knowne to you this many yeares. <hi>I</hi> ſhould bee very glad to obtaine ſo much ſilence as to be heard a few words, but I doubt <hi>I</hi> ſhall not, the noyſe is ſo great.</p>
+               <p>My <hi>Lords,</hi> I come hither by the good will and plea<g ref="char:EOLhyphen"/>ſure of <hi>Almighty God,</hi> to pay that laſt debt J owe to ſin which is death; and by the bleſſing of that <hi>God</hi> to riſe againe through the merits of <hi>Jeſus Chriſt</hi> to <hi>righteouſ<g ref="char:EOLhyphen"/>neſſe</hi> and life eternall. [Here he was interrupted.</p>
+               <p>
+                  <hi>My Lords,</hi> I am come hither to ſubmit to that judg<g ref="char:EOLhyphen"/>ment which hath paſſed againſt me; I do it with a very
+<pb n="3" facs="tcp:157730:3"/> quiet and contented minde, I do freely forgive all the World, a forgivenes that is not ſpoken from the teeth outwards (as they ſay) but from the very heart. J can very well ſay in the preſence of Almighty God before whom J ſtand, That there is not a diſpleaſed thought ariſing in mee towards any creature. I thanke God I can ſay, and truly too, and my conſcience beares mee witneſſe, that in all the employments, ſince I had the honour to ſerve his <hi>Majeſty,</hi> J never had any thing in the purpoſe of my heart, but what tended to the joynt and individuall proſperity of King and people. If it hath been my fortune to be miſunderſtood, ſurely I am not the firſt that hath been ſo; it is the common porti<g ref="char:EOLhyphen"/>on of us all, while wee are in this life, to erre, but righteous judgment we muſt wait for in another place; for here we are very ſubject to be miſjudged one of an<g ref="char:EOLhyphen"/>other. There is one thing I deſire to free my felfe of, and J am very confident (ſpeaking it now with ſo much cheerfulneſſe) that it cannot be but that <hi>J</hi> ſhall obtaine your Chriſtian charity in the belief of it: <hi>I did alwaies thinke, the Parliaments of England were the happieſt Con<g ref="char:EOLhyphen"/>ſtitutions that any Kingdome or Nation lived under, and next under God, the beſt means to make the King and his people happy, ſo far have J been from being a<g ref="char:EOLhyphen"/>gainſt Parliaments.</hi>
+               </p>
+               <p>
+                  <hi>For my death J heere acquit all the World, and be<g ref="char:EOLhyphen"/>ſeech the God of Heaven heartily to forgive them, though in the intentions and purpoſes of my heart I am innocent of what I die for.</hi>
+               </p>
+               <p>And my Lord Primate, it is a very great comfort un<g ref="char:EOLhyphen"/>to me that his Majeſty conceives me not meriting ſo ſe<g ref="char:EOLhyphen"/>vere and heavy a puniſhment, as is the uttermoſt execu<g ref="char:EOLhyphen"/>tion of this ſentence. J doe infinitely rejoyce in this
+<pb n="4" facs="tcp:157730:4"/> mercy of His, and J beſeech God to returne it upon him, that hee may find mercy when hee ſtands moſt in need of it.</p>
+               <p>I wiſh this Kingdome all the proſperity and happi<g ref="char:EOLhyphen"/>neſſe in the world; I did it living, and now dying it is my wiſh; J doe moſt humbly recommend it to every man that heares mee, and deſire that they will lay their hands upon their hearts, and conſider ſeriouſly whether the beginning of the happineſſe of the Re<g ref="char:EOLhyphen"/>formation of a Kingdome ſhould be written in letters of bloud. Conſider this when you are in your owne homes, and let mee bee never ſo unhappy, as that the leaſt drop of my bloud ſhould riſe up in Iudgement againſt any one of you; I acquit you all, but I feare you are in a wrong way.</p>
+               <p>My Lords, I here profeſſe, and with that I ſhall end, <hi>That I doe die a true and obedient Sonne to the Church of</hi> England, wherein J was born, and in which I was bred, Peace and Proſperity be ever in it. And whereas it is objected (if it bee an objection worth the anſwering) that J have beene inclined to Popery, J may truly ſay that from the time of 21. to this preſent going on now of 49. yeares, I never had in my heart to doubt of this <hi>Religion of the Church of England,</hi> nor ever any man the boldneſſe to ſuggeſt any ſuch thing, to the beſt of my remembrance to me: ſo being reconciled by the mer<g ref="char:EOLhyphen"/>cies of Chriſt Jeſus my Saviour, into whoſe boſome I hope J ſhall ſhortly bee gathered to, thoſe eternall happineſſes that ſhall never have end.</p>
+               <p>I deſire heartily the forgiveneſſe of every man for any raſh and unadviſed words, or for any thing done amiſſe; And ſo <hi>my Lords</hi> and Gentlemen farewell, farewell all the things of this World.</p>
+               <pb n="5" facs="tcp:157730:4"/>
+               <p>I deſire that you would be ſilent and joyne with me in Prayer, and J truſt in God we ſhall all meete, and live eternally in Heaven, there to receive the accom<g ref="char:EOLhyphen"/>pliſhment of all happineſſe, where every teare ſhall be wiped away from our eyes, and every ſad thought from our hearts, and ſo God bleſſe this Kingdome, and Jeſus haue mercy upon my Soule.</p>
+               <p>To this, added a prayer not taken by any, to ſtreng<g ref="char:EOLhyphen"/>then his Faith, confirme him in Patience and Charity, to preſerve his Majeſty and his Realmes in proſperity, and the Church in unitie, and to have mercy on his Soule.</p>
+            </div>
+            <div type="part">
+               <head>Riſing delivered theſe commands for his Children.</head>
+               <p>TO <hi>his Sonne</hi> William Wentworth, <hi>commends him<g ref="char:EOLhyphen"/>ſelfe, gives him charge to ſerve his God, to ſubmit to his King with all faith and allegeance in things Tem<g ref="char:EOLhyphen"/>porall; to the Church, in things Spirituall; gives in charge as he will anſwer it to him in Heaven, never to meddle with the Patrimony of the Church, for it will bee the</hi> Cancer <hi>that will eate up the reſt of his eſtate: Again, charges it as he will anſwer him in Heaven.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
